@@ -1,2 +1,2 @@
 # nexpress
-developping CMS by node.js
+CMS by node.js
