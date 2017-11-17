@@ -12,6 +12,7 @@ class Layout extends React.Component {
               <ul>
                 <li><a href="/">index</a></li>
                 <li><a href="/users">users</a></li>
+                <li><a href="/test">test</a></li>
               </ul>
             </nav>
           </header>

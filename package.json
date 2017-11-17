@@ -13,6 +13,8 @@
     "express": "~4.15.5",
     "express-react-views": "^0.10.4",
     "mongoose": "^4.13.2",
+    "mongoose-bcrypt": "^1.5.0",
+    "mongoose-sequence": "^4.0.1",
     "morgan": "~1.9.0",
     "passport": "^0.4.0",
     "react": "^16.1.1",
